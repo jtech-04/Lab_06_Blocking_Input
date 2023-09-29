@@ -71,6 +71,5 @@ public class Main
             System.out.println("you entered " + trash + " which is wrong!");
             System.out.println("run the program again with the correct input ");
         }
-
     }
 }
